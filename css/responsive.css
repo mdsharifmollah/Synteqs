@@ -1,0 +1,252 @@
+@media (max-width: 1500px) {
+  .hero_area_section {
+    padding-top: 6px;
+  }
+  .modal-body {
+    padding: 88px 120px;
+  }
+  .contact_box {
+    padding: 60px 0px;
+  }
+  .contact_box:before {
+    top: 50px;
+  }
+  .modal-header img {
+    width: 36px;
+  }
+  .shape-bottom {
+    top: auto;
+    left: 0;
+    overflow: hidden;
+    margin-top: 25px;
+}
+.shape-bottom {
+    bottom: -54px;
+}
+}
+
+@media (max-width: 1400px) {
+  .line_box svg:not(:root) {
+    height: 810px;
+    width: 1336px;
+  }
+  .linebox2 svg:not(:root) {
+    width: 1336px;
+  }
+  .hero_area_section {
+    padding-top: 3px;
+  }
+  .hero_area {
+    height: 840px;
+  }
+  .hero_area_section {
+    padding-top: 6px;
+  }
+  .shape-bottom {
+    bottom: -144px;
+}
+}
+@media (max-width: 1300px) {
+.shape-bottom {
+    bottom: -193px;
+}
+}
+@media (max-width: 1024px) {
+  .box_area_bt {
+    padding: 95px 0px;
+  }
+  .modal-body {
+    padding: 25px 92px;
+  }
+  .image_box img {
+    margin-top: 48px;
+}
+.contact_box:before {
+    height: 196px;
+}
+.our_service h2 {
+    font-size: 30px;
+}
+
+.service_box {
+    padding: 35px 15px;
+}
+}
+@media (max-width: 991px) {
+  .mobile_header {
+    display: block !important;
+  }
+  .navbar {
+    display: none;
+  }
+  .image_box {
+    padding: 142px 0px;
+  }
+  .service_box {
+    margin-bottom: 30px;
+}
+}
+@media (max-width: 768px) {
+  li.menu-item .btn_box a {
+    height: 51px;
+  }
+  .modal-body {
+    padding: 25px 20px;
+  }
+  .contact_box ul li {
+    margin-bottom: 10px;
+  }
+  .map_img {
+    margin-top: -57px;
+  }
+  .modal-header .close {
+    right: 29px;
+    top: 23px;
+  }
+  .mobile_header ul.menu li.menu-item a {
+    font-size: 16px;
+}
+.btn_box a {
+    z-index: 8;
+    line-height: 29px !important;
+}
+li.menu-item .btn_box {
+    padding: 0px 10px;
+    width: 160px;
+    height: 57px;
+}
+.mobile_header ul.menu li.menu-item a {
+    line-height: 42px;
+}
+}
+@media (max-width: 767px) {
+  .mobile_header ul.menu li.menu-item a {
+    font-size: 14px;
+}
+.btn_box a {
+    padding: 10px 34px;
+}
+.mobile-menu .btn_box {
+    margin-top: 24px;
+}
+.content_box p {
+    padding: 8px 0px;
+}
+ .content_box h1 {
+    font-size: 30px;
+    line-height: 38px;
+    width: 64%;
+}
+ .hero_area {
+    height: 940px;
+}
+.service_img img {
+    width: 268px;
+}
+.service_box {
+    background: #002f23;
+}
+  .content_box {
+    padding: 18px 0px;
+    margin-top: 56px;
+  }
+.image_box img {
+    width: 393px;
+    margin: 0 auto;
+    display: inline-block;
+}
+.box_area_bt {
+    padding: 38px 0px;
+}
+.img_box_bbt {
+    margin-left: 16px;
+}
+  .img_box_pt img {
+    width: 100px;
+  }
+  .our_technology .col-md-6 {
+    width: 50%;
+  }
+  .navbar-brand img {
+    width: 100px;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    background: #061c10;
+    padding: 35px 25px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0;
+    line-height: 44px;
+  }
+  .section_padding {
+    padding: 40px 0px;
+  }
+  h2 {
+    font-size: 22px;
+    line-height: 16px;
+  }
+  .our_service h2 {
+    font-size: 28px;
+  }
+  .service_box {
+    margin-bottom: 20px;
+  }
+  .sub_title h4 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .our_solution .col-md-6 {
+    width: 50%;
+  }
+ .img_box_bbt {
+    margin-bottom: 0px;
+}
+.our_solution {
+    padding-bottom: 0px !important;
+    margin-bottom: 38px;
+}
+  .icon-container {
+    margin-top: -42px;
+  }
+  li.menu-item .btn_box a{
+    height: 50px;
+  }
+  .image_box {
+    padding: 56px 0px;
+  }
+  .solution_logo img {
+    padding: 0px 44px;
+  }
+  .solution_logo img {
+    width: 400px;
+}
+.shape-bottom {
+    display: none;
+}
+.process p{
+  margin-top: 0px;
+}
+}
+@media (max-width: 480px) {
+  .image_box {
+    padding: 14px 0px;
+  }
+.img_box_bbt img {
+    width: 100%;
+}
+  .content_box h1 {
+    font-size: 30px;
+    line-height: 38px;
+    width: 100%;
+}
+.solution_logo img {
+    width: 350px;
+}
+
+.contact_box ul li a {
+    font-size: 15px;
+}
+.map_img {
+    margin-top: -64px;
+}
+}
